@@ -1,0 +1,1 @@
+first you should download jpgraph library 
